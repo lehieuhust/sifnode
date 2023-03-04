@@ -95,6 +95,6 @@
   },
   "dependencies": {
     "concurrently": "^6.2.0",
-    "truffle": "^5.4.7"
+    "truffle": "^5.7.9"
   }
 }
